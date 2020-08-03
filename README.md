@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/Screen_Web.jpg" width="70%">
+  <img alt="Screen_Proffy" src=".github/Screen_Web.jpg" width="70%">
 </p>
 
 ## 🚀 Tecnologias
