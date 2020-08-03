@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Proffy é uma plataforma que conecta um aluno a um proffesor
+Proffy é uma plataforma que conecta um aluno a um professor
 
 ## 🔖 Layout
 
